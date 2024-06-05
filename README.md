@@ -1,4 +1,7 @@
-## Graph Isomorphism Project running instructions 
+# Graph Isomorphism Project
+
+## Authors
+Arsalaan Khan , Aarav Mehrishi, Aleksii Kyryk and Ąžuolas Arlauskas
 
 ---
 
